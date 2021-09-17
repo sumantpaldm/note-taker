@@ -1,5 +1,7 @@
 # Note Taker Starter Code
 
+[DEPLOYED APP]( https://morning-savannah-13385.herokuapp.com)
+
   ## Description
 
   This is a Express.js application to create and manage notes.
@@ -26,10 +28,6 @@
   ![screenshot](/public/assets/images/screenshot.png)
 
 
-
-
-  
-  [Click here for Video](/assets/media/video.mp4)
   
 
 
